@@ -1,6 +1,6 @@
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
-class DefaultTheme {
+class DefaultTheme  {
   DefaultTheme._();
   static const Color ColorPrimaryAccent = Color(0xFFA4D5ED);
   static const Color ColorsBackgorund = Color(0xFFFAF9F5);
